@@ -1,0 +1,11 @@
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Communication\bin\Debug\net8.0\GerenciadorTarefas.Communication.deps.json
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Communication\bin\Debug\net8.0\GerenciadorTarefas.Communication.dll
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Communication\bin\Debug\net8.0\GerenciadorTarefas.Communication.pdb
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Communication\obj\Debug\net8.0\GerenciadorTarefas.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Communication\obj\Debug\net8.0\GerenciadorTarefas.Communication.AssemblyInfoInputs.cache
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Communication\obj\Debug\net8.0\GerenciadorTarefas.Communication.AssemblyInfo.cs
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Communication\obj\Debug\net8.0\GerenciadorTarefas.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Communication\obj\Debug\net8.0\GerenciadorTarefas.Communication.dll
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Communication\obj\Debug\net8.0\refint\GerenciadorTarefas.Communication.dll
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Communication\obj\Debug\net8.0\GerenciadorTarefas.Communication.pdb
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Communication\obj\Debug\net8.0\ref\GerenciadorTarefas.Communication.dll

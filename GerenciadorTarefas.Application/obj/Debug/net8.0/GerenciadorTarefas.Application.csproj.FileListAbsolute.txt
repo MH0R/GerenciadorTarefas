@@ -1,0 +1,15 @@
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\bin\Debug\net8.0\GerenciadorTarefas.Application.deps.json
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\bin\Debug\net8.0\GerenciadorTarefas.Application.dll
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\bin\Debug\net8.0\GerenciadorTarefas.Application.pdb
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\bin\Debug\net8.0\GerenciadorTarefas.Communication.dll
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\bin\Debug\net8.0\GerenciadorTarefas.Communication.pdb
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.csproj.AssemblyReference.cache
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.AssemblyInfoInputs.cache
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.AssemblyInfo.cs
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.csproj.CoreCompileInputs.cache
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\obj\Debug\net8.0\Gerencia.FFA86783.Up2Date
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.dll
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\obj\Debug\net8.0\refint\GerenciadorTarefas.Application.dll
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.pdb
+C:\Users\Thalles\source\repos\GerenciadorTarefas\GerenciadorTarefas.Application\obj\Debug\net8.0\ref\GerenciadorTarefas.Application.dll

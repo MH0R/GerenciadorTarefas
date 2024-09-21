@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA1D9C9-3112-4EB5-9F24-1D40A7EB7D11}|GerenciadorTarefas.API\\GerenciadorTarefas.API.csproj|c:\\users\\thalles\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.api\\controllers\\gerenciadortarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA1D9C9-3112-4EB5-9F24-1D40A7EB7D11}|GerenciadorTarefas.API\\GerenciadorTarefas.API.csproj|solutionrelative:gerenciadortarefas.api\\controllers\\gerenciadortarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813548DC-E17C-4189-88B6-F0ACFE5E0311}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|c:\\users\\thalles\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.communication\\responses\\responsetarefaregistradajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813548DC-E17C-4189-88B6-F0ACFE5E0311}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\responses\\responsetarefaregistradajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813548DC-E17C-4189-88B6-F0ACFE5E0311}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|c:\\users\\thalles\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.communication\\responses\\responsetarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813548DC-E17C-4189-88B6-F0ACFE5E0311}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\responses\\responsetarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C88D7-9491-40D8-88C6-4063BEE8A874}|GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj|c:\\users\\thalles\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.application\\usecases\\tarefas\\delete\\deletetarefausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C88D7-9491-40D8-88C6-4063BEE8A874}|GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj|solutionrelative:gerenciadortarefas.application\\usecases\\tarefas\\delete\\deletetarefausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C88D7-9491-40D8-88C6-4063BEE8A874}|GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj|c:\\users\\thalles\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.application\\usecases\\tarefas\\update\\tarefaupdateusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C88D7-9491-40D8-88C6-4063BEE8A874}|GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj|solutionrelative:gerenciadortarefas.application\\usecases\\tarefas\\update\\tarefaupdateusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C88D7-9491-40D8-88C6-4063BEE8A874}|GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj|c:\\users\\thalles\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.application\\usecases\\tarefas\\getbyid\\gettarefabyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C88D7-9491-40D8-88C6-4063BEE8A874}|GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj|solutionrelative:gerenciadortarefas.application\\usecases\\tarefas\\getbyid\\gettarefabyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813548DC-E17C-4189-88B6-F0ACFE5E0311}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|c:\\users\\thalles\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.communication\\responses\\responsetodastarefasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813548DC-E17C-4189-88B6-F0ACFE5E0311}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\responses\\responsetodastarefasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813548DC-E17C-4189-88B6-F0ACFE5E0311}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|c:\\users\\thalles\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.communication\\responses\\responsetarefashortjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813548DC-E17C-4189-88B6-F0ACFE5E0311}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\responses\\responsetarefashortjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C88D7-9491-40D8-88C6-4063BEE8A874}|GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj|c:\\users\\thalles\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.application\\usecases\\tarefas\\getall\\getalltarefasusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C88D7-9491-40D8-88C6-4063BEE8A874}|GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj|solutionrelative:gerenciadortarefas.application\\usecases\\tarefas\\getall\\getalltarefasusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C88D7-9491-40D8-88C6-4063BEE8A874}|GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj|c:\\users\\thalles\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.application\\usecases\\tarefas\\create\\createtarefausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3C88D7-9491-40D8-88C6-4063BEE8A874}|GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj|solutionrelative:gerenciadortarefas.application\\usecases\\tarefas\\create\\createtarefausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813548DC-E17C-4189-88B6-F0ACFE5E0311}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|c:\\users\\thalles\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.communication\\requests\\requesttarefajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813548DC-E17C-4189-88B6-F0ACFE5E0311}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\requests\\requesttarefajson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3C88D7-9491-40D8-88C6-4063BEE8A874}|GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj|c:\\users\\thalles\\source\\repos\\gerenciadortarefas\\gerenciadortarefas.application\\gerenciadortarefas.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE3C88D7-9491-40D8-88C6-4063BEE8A874}|GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj|solutionrelative:gerenciadortarefas.application\\gerenciadortarefas.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GerenciadorTarefasController.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.API\\Controllers\\GerenciadorTarefasController.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.API\\Controllers\\GerenciadorTarefasController.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.API\\Controllers\\GerenciadorTarefasController.cs",
+              "RelativeToolTip": "GerenciadorTarefas.API\\Controllers\\GerenciadorTarefasController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:26:39.211Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteTarefaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Application\\UseCases\\Tarefas\\Delete\\DeleteTarefaUseCase.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Application\\UseCases\\Tarefas\\Delete\\DeleteTarefaUseCase.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Application\\UseCases\\Tarefas\\Delete\\DeleteTarefaUseCase.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Application\\UseCases\\Tarefas\\Delete\\DeleteTarefaUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T22:24:08.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TarefaUpdateUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Application\\UseCases\\Tarefas\\Update\\TarefaUpdateUseCase.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Application\\UseCases\\Tarefas\\Update\\TarefaUpdateUseCase.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Application\\UseCases\\Tarefas\\Update\\TarefaUpdateUseCase.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Application\\UseCases\\Tarefas\\Update\\TarefaUpdateUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T22:19:36.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetTarefaByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Application\\UseCases\\Tarefas\\GetById\\GetTarefaByIdUseCase.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Application\\UseCases\\Tarefas\\GetById\\GetTarefaByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Application\\UseCases\\Tarefas\\GetById\\GetTarefaByIdUseCase.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Application\\UseCases\\Tarefas\\GetById\\GetTarefaByIdUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T22:11:41.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseTarefa.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseTarefa.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Responses\\ResponseTarefa.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseTarefa.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Responses\\ResponseTarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T22:10:43.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllTarefasUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Application\\UseCases\\Tarefas\\GetAll\\GetAllTarefasUseCase.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Application\\UseCases\\Tarefas\\GetAll\\GetAllTarefasUseCase.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Application\\UseCases\\Tarefas\\GetAll\\GetAllTarefasUseCase.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Application\\UseCases\\Tarefas\\GetAll\\GetAllTarefasUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T22:01:03.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseTarefaRegistradaJson.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseTarefaRegistradaJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Responses\\ResponseTarefaRegistradaJson.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseTarefaRegistradaJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Responses\\ResponseTarefaRegistradaJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:55:22.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseTarefaShortJson.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseTarefaShortJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Responses\\ResponseTarefaShortJson.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseTarefaShortJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Responses\\ResponseTarefaShortJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:58:25.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseTodasTarefasJson.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseTodasTarefasJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Responses\\ResponseTodasTarefasJson.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseTodasTarefasJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Responses\\ResponseTodasTarefasJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:57:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateTarefaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Application\\UseCases\\Tarefas\\Create\\CreateTarefaUseCase.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Application\\UseCases\\Tarefas\\Create\\CreateTarefaUseCase.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Application\\UseCases\\Tarefas\\Create\\CreateTarefaUseCase.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Application\\UseCases\\Tarefas\\Create\\CreateTarefaUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:45:31.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequestTarefaJson.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Requests\\RequestTarefaJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Requests\\RequestTarefaJson.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Communication\\Requests\\RequestTarefaJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Requests\\RequestTarefaJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:48:13.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GerenciadorTarefas.Application",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\GerenciadorTarefas\\GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj",
+              "RelativeToolTip": "GerenciadorTarefas.Application\\GerenciadorTarefas.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T21:26:54.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
